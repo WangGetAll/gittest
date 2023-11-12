@@ -1,1 +1,3 @@
-public void test
+public class Test2 {
+  
+}
