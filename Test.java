@@ -4,5 +4,6 @@ public class Test {
         yaunduanxiugai
             2
             3
+            4
     }
 }
